@@ -52,7 +52,7 @@ nav a:hover{
     height:100vh;
     background:
     linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-    url("imagens/banner-capa-agrinho.jpg");
+    url("banner.jpeg");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -237,4 +237,3 @@ footer p{
         flex-direction:column;
     }
 }
-
